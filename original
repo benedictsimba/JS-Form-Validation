@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head>
+    <script>
+        function validation() {}
+    </script>
+</head>
+
+<body>
+    <form method="POST" id="frm" action="seoproskenya.com" onsubmit="return validate()">
+        <input type="submit" value="SUBMIT" />
+    </form>
+    <!-- <input type="button" onclick="sayHi();" value="activate onclick event" /> -->
+</body>
+
+</html>
